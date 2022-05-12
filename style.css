@@ -1,16 +1,17 @@
+
 /* ボタンの設定 */
 .btn-circle-flat {
-  display: inline-block;
-  text-decoration: none;
-  background: #87befd;
-  color: #FFF;
-  width: 60px;
-  height: 60px;
-  line-height: 60px;
-  border-radius: 50%;
-  text-align: center;
-  overflow: hidden;
-  transition: .4s;
+	display: inline-block;
+  	text-decoration: none;
+  	background: #87befd;
+  	color: #FFF;
+  	width: 80px;
+  	height: 40px;
+  	line-height: 40px;
+  	border-radius: 50%;
+  	text-align: center;
+  	overflow: hidden;
+  	transition: .4s;
 }
 
 .btn-circle-flat:hover {
@@ -18,5 +19,6 @@
 }
 
 table {
-
+	border: 2px solid black;
+	border-collapse: collapse:
 }
